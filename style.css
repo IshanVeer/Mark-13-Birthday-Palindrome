@@ -1,0 +1,53 @@
+
+
+
+
+
+.header {
+  margin: auto;
+  text-align: center;
+  padding: 2rem 1rem;
+  font-weight: bold;
+  font-family: Rampart One;
+  color: rebeccapurple;
+  font-size: 60px;
+}
+
+.input-label {
+  display: block;
+  text-align: center;
+  margin: 1rem auto;
+  font-size: 21px;
+  font-weight: bold;
+}
+
+.input-date {
+  display: block;
+  margin: 1rem auto;
+  width: 200px;
+  height: 30px;
+  padding: 5px 20px;
+  border: 2px solid rebeccapurple;
+  border-radius: 5px;
+}
+
+.btn-check {
+  display: block;
+  margin: 1rem auto;
+  width: 100px;
+  height: 35px;
+  background-color: rebeccapurple;
+  border: 0px;
+  border-radius: 5px;
+  color: whitesmoke;
+  font-size: 1rem;
+}
+
+.output-div p {
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+  color: rebeccapurple;
+  
+}
+
